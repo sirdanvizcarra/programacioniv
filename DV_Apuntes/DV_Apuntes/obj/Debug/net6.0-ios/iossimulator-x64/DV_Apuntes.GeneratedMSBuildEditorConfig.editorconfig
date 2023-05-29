@@ -28,6 +28,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = DV_Apuntes.DV_AboutPage.xa
 build_metadata.AdditionalFiles.TargetPath = DV_AboutPage.xaml
 build_metadata.AdditionalFiles.RelativePath = DV_AboutPage.xaml
 
+[C:/Users/cisco/Documents/Repositorios/programacioniv/DV_Apuntes/DV_Apuntes/DV_NotePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DV_Apuntes.DV_NotePage.xaml
+build_metadata.AdditionalFiles.TargetPath = DV_NotePage.xaml
+build_metadata.AdditionalFiles.RelativePath = DV_NotePage.xaml
+
 [C:/Users/cisco/Documents/Repositorios/programacioniv/DV_Apuntes/DV_Apuntes/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = DV_Apuntes.MainPage.xaml

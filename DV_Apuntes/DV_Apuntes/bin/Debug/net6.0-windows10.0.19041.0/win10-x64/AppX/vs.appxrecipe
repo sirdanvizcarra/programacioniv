@@ -29,13 +29,13 @@
     <AppXManifest Include="C:\Users\cisco\Documents\Repositorios\programacioniv\DV_Apuntes\DV_Apuntes\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-29T13:28:59.391</Modified>
+      <Modified>2023-05-29T13:45:03.823</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\cisco\Documents\Repositorios\programacioniv\DV_Apuntes\DV_Apuntes\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-05-29T13:28:58.988</Modified>
+      <Modified>2023-05-29T13:45:03.382</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cisco\Documents\Repositorios\programacioniv\DV_Apuntes\DV_Apuntes\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\DV_Apuntes.runtimeconfig.json">
       <PackagePath>DV_Apuntes.runtimeconfig.json</PackagePath>
@@ -43,15 +43,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cisco\Documents\Repositorios\programacioniv\DV_Apuntes\DV_Apuntes\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\DV_Apuntes.dll">
       <PackagePath>DV_Apuntes.dll</PackagePath>
-      <Modified>2023-05-29T13:28:57.218</Modified>
+      <Modified>2023-05-29T13:45:01.582</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cisco\Documents\Repositorios\programacioniv\DV_Apuntes\DV_Apuntes\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>DV_Apuntes.exe</PackagePath>
-      <Modified>2023-05-29T13:28:57.244</Modified>
+      <Modified>2023-05-29T13:45:01.607</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cisco\Documents\Repositorios\programacioniv\DV_Apuntes\DV_Apuntes\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\DV_Apuntes.deps.json">
       <PackagePath>DV_Apuntes.deps.json</PackagePath>
-      <Modified>2023-05-29T13:28:58.724</Modified>
+      <Modified>2023-05-29T13:45:03.099</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cisco\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.16\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
