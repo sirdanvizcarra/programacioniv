@@ -10,6 +10,12 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DV_Apuntes
 build_property.ProjectDir = C:\Users\cisco\Documents\Repositorios\programacioniv\DV_Apuntes\DV_Apuntes\
 
+[C:/Users/cisco/Documents/Repositorios/programacioniv/DV_Apuntes/DV_Apuntes/AboutPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DV_Apuntes.AboutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = AboutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = AboutPage.xaml
+
 [C:/Users/cisco/Documents/Repositorios/programacioniv/DV_Apuntes/DV_Apuntes/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = DV_Apuntes.App.xaml
